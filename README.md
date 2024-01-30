@@ -37,7 +37,7 @@ Reset: Press the reset button to start a new game.
 This project requires the DE-10 Lite Board and associated development tools.
 
 ## Acknowledgments:
-This project was developed as part of [Your Organization/Team Name]'s efforts in [Course/Project Name].
+This project was developed in my course EECS 3201 (Digital Logic Design).
 
 Feel free to reach out for any questions or support!
 
